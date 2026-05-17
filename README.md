@@ -10,7 +10,7 @@
 
 I'm a Senuir studying Computer Science AI with a focus on building intelligent systems and understanding how data can be used to solve real-world problems. My work spans machine learning model development, data-driven analysis, and an interest in how security intersects with modern AI systems.
 
-When I'm not coding, you can find me reading at a cage.
+When I'm not coding, you can find me reading in a cafe.
 
 ---
 
