@@ -54,7 +54,6 @@ When I'm not coding, you can find me reading in a cafe.
 
 | Project | Description | Tech |
 |---|---|---|
-| [🧠 Single-Layer Neural Networks](https://github.com/[your-username]/single-layer-neural-networks) | ADALINE, Perceptron & Logistic Regression built from scratch with gated feature selection extension | NumPy, Python |
 | [🖼️ Multilayer Perceptron Image Classifier](https://github.com/[your-username]/multilayer-perceptron-image-classification) | MLP with softmax + cross-entropy trained on STL-10 with grid search hyperparameter tuning | NumPy, Python |
 | [🌐 Convolutional Neural Network](https://github.com/[your-username]/convolutional-neural-network-from-scratch) | Full CNN from scratch with JAX-accelerated layers, Adam/AdamW optimizers, and Dropout | NumPy, JAX, Python |
 | [🎨 Transfer Learning & DeepDream](https://github.com/[your-username]/transfer-learning-and-deep-dream) | Fine-tuned MobileNetV2 for food classification and VGG19 gradient ascent generative art | TensorFlow, Python |
